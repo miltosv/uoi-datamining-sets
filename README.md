@@ -1,1 +1,1 @@
-# cse-uoi-datamining-sets
+datamining-sets
